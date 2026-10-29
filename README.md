@@ -75,6 +75,7 @@ Sales-Analysis-Dashboard/
 - Data storytelling
 
   Screenshot:
+  https://github.com/DishaSharma096/Analysis-Report/blob/main/Dashboard%20.png
   
 
 Thank you for visiting my project!
